@@ -4,7 +4,7 @@
 #### Become a Computer Vision Expert
 <p>Master building and implementing neural networks for image recognition, sequence generation, image generation, and more.</p>
 ## What You Will Learn.
-![CVND outline](asset/outline.png)
+![DLND outline](asset/outline.png)
 
 
 
